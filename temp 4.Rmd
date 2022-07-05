@@ -1,0 +1,38 @@
+---
+title: "Temp 4"
+author: "Winata"
+date: "7/4/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#rm(list=ls())
+```
+
+```{r}
+2+2
+
+print("winata")
+```
+
+```{r}
+umursaya <- 27
+
+paste0("hallo nama saya Winata umur saya ", umursaya)
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
